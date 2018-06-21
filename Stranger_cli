@@ -1,0 +1,7 @@
+git clone http://github.com/Stranger13/Stranger_cli
+cd Stranger_cli
+chmod +x install
+./install
+cd tg
+mv telegram-cli-1222 tg
+chmod +x tg
